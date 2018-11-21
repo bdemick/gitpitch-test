@@ -10,6 +10,5 @@ Just a dumb repo to evaluate GitPitch
 - Runs as a module
 - Prints a message
 
----
 
 ---?code=gp_test/main.py&lang=python
