@@ -12,4 +12,4 @@ Just a dumb repo to evaluate GitPitch
 
 ---
 
----?code=gp_test/__main__.py&lang=python
+---?code=gp_test/main.py&lang=python
