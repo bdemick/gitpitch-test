@@ -12,4 +12,4 @@ Just a dumb repo to evaluate GitPitch
 
 ---
 
-![My repo](https://github.com/bdemick/gitpitch-test)
+---?code=gp_test/__main__.py&lang=python
